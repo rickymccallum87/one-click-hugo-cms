@@ -1,7 +1,7 @@
 ---
 title: 'Releasing Cats To Live Outdoors: Humane, Environmental And One Health Concerns'
 date: 2019-02-26T17:23:22.990Z
-description: By Dr. Michael W. Fox & Deanna L Krantz
+description: ' '
 ---
 Contemporary society is facing many ethical challenges dealing with wildlife conflicts, the release of non-indigenous and “exotic” species into the natural environment, free-roaming and feral cats and the issue of animals’ rights and well-being.(1) While it has been said that for the truly ethical person all life is sacred and that the merciful man is merciful to his beast, there are no simple moral directives for  dealing with livestock predators, “pests”, invasive species and various human-animal conflicts. To resolve ethical dilemmas the interests of all stake-holders/involved parties must be considered as well as the consequences of decided-upon actions. To be involved is to care and to care is a virtue which must be open to moral examination especially when there are vested interests and self-righteous conviction. The desire to care for and rescue others in need, regardless of species and context, like the issue of euthanasia, call for moral reasoning in ethically challenging situations.
 
@@ -53,9 +53,9 @@ After trapping a stray/feral cat on our property we took him to Minnesota’s la
 
 This Minnesota humane society’s TNR program was adopted on the basis of the University of California at Davis veterinary college’s advocacy of Trap-Neuter-Return as an alternative to euthanasia. Under the Million Cat Challenge, a joint project of the UC Davis Koret Shelter Medicine Program and the University of Florida Maddie’s Shelter Medicine Program, TNR is being promoted nation-wide. Their website states that they are “supported by our participating animal shelters and their spay/neuter partners, as well as many national and regional organizations” They are also “ grateful for the contributions of our sponsors, especially Maddie’s Fund, whose generosity made this campaign possible.”
 
-Minnesota feral cat rescued by the authors first displays fear & defensive aggression, then when socialized gives “love eyes”.(See the book Cat Body, Cat Mind, by Fox for ethological details).
+_Minnesota feral cat rescued by the authors first displays fear & defensive aggression, then when socialized gives “love eyes”.(See the book Cat Body, Cat Mind, by Fox for ethological details)._
 
-He enjoys massage therapy. (See The Healing Touch for Cats book by Fox) and grooming.
+_He enjoys massage therapy. (See The Healing Touch for Cats book by Fox) and grooming._
 
 Regardless of personal belief in some right to life or public relations ploy to promote a compassionate “no kill” image, TNR programs are too often examples of misguided altruism causing much suffering to homeless cats who are released in various neighborhoods without any routine monitoring and care. Shakopee MN veterinarian Ron Gaskin DVM, tells us he has had to amputate a stray cat’s frozen tail and do other surgical treatments of cats suffering from severe frostbite. Yet one Minnesota and nation-wide advocate of TNR asserted to us that “TNR-selected cats are put into their natural habitat” (as predators). But this “natural habitat” is not natural for this domesticated species even if they are predators. They have no place in the natural ecology of the North America or Europe. But as a “naturalized” introduced species (and super- predator and devoted, empathic parent) many argue that the cat has a place in the anomalous and dysfunctional ecosystems of human creation---our cities, slums, third world villages, family farms and stables, docks and warehouses.
 
@@ -111,7 +111,9 @@ Allowing indoor cats to go outdoors at any time, unsupervised and roaming out of
 
 ## Releasing cats in the UK
 
-I sent the following letter to the British Veterinary Record ( published April 15, 2017, p 386.) because I was concerned that veterinarians were divided over the issue of keeping cats indoors and even suggested that cats enjoy better health when allowed to roam outdoors. 
+I sent the following letter to the British Veterinary Record ( published April 15, 2017, p 386.) because I was concerned that veterinarians were divided over the issue of keeping cats indoors and even suggested that cats enjoy better health when allowed to roam outdoors.
+
+<hr>
 
 #### _IN OR OUT? IS THERE A DILEMMA FOR CAT WELFARE?_
 
@@ -131,7 +133,7 @@ _Michael W. Fox BVetMed, PhD, DSc, MRCVS_
 
 _Golden Valley, Minnesota USA_
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
+<hr><br>
 
 We sent a personal communication to the above authors stating:
 
@@ -143,7 +145,7 @@ _We note in your paper that you assert "there are a number of health and welfare
 
 _The list may be different for cats who have never been allowed outdoors compared with those who were indoor-outdoor cats and then were never allowed outdoors again. A third and fourth set may come from owners of cats in the latter and former categories who allow their cats out at- will or on a regular basis into an escape-proof enclosure or yard, or who take them for a walk on a leash and harness._
 
-_The best "prevention" of  indoor confinement-frustration/outdoor deprivation as we see it is to keep more than one cat, neuter all and never allow cats from kitten-hood to become indoor-outdoor cats. This is still a cultural norm in the U.K. and many other parts of the world including the U.S. ( where many municipalities prohibit cats being allowed to roam off the owners' property) which needs to be addressed by the veterinary profession._
+_The best "prevention" of  indoor confinement-frustration/outdoor deprivation as we see it is to keep more than one cat, **neuter all** and never allow cats from kitten-hood to become indoor-outdoor cats. This is still a cultural norm in the U.K. and many other parts of the world including the U.S. ( where many municipalities prohibit cats being allowed to roam off the owners' property) which needs to be addressed by the veterinary profession._
 
  _Are there such prohibitive initiatives being considered in the U.K. or is it too politically sensitive for veterinary-client relations and the RSPCA's supporting membership?!_
 
@@ -153,37 +155,43 @@ _Best regards_
 
 _Deanna L. Krantz and Michael W. Fox_
 
+<hr><br>
+
 One of the authors of the Bristol study sent the following reply asserting the health benefits to cats of roaming outdoors:
 
-\----- Original Message -----
+_\----- Original Message -----_
 
-From: Jess Wilson <mailto:jess.wilson@bristol.ac.uk>
+_From: Jess Wilson_ [_jess.wilson@bristol.ac.uk_](mailto:jess.wilson@bristol.ac.uk)__
 
-To: FOX/KRANTZ/ IPAN <mailto:ipan@erols.com>
+_To: FOX/KRANTZ/ IPAN_ [_ipan@erols.com_](mailto:ipan@erols.com)__
 
-Sent: Wed, 12 Apr 2017 11:01:48 -0400 (EDT)
+_Sent: Wed, 12 Apr 2017 11:01:48 -0400 (EDT)_
 
-Subject: Re: Re Risk factors for road traffic accidents in cats
+_Subject: Re: Re Risk factors for road traffic accidents in cats_
 
-Dear Deanna Krantz and Michael Fox,
+_Dear Deanna Krantz and Michael Fox,_
 
-Thank you very much for your email and for your interest in our study. Please accept my apologies for the delayed reply. 
+_Thank you very much for your email and for your interest in our study. Please accept my apologies for the delayed reply._ 
 
-As mentioned in the paper, cats without outdoor access have been reported to have increased behavioural issues in a study carried out at the Animal Behaviour Clinic at the Barcelona School of Veterinary Medicine (Amat and others 2009). A previous study using data from the same 'Bristol Cats study' cohort found that cats with no outdoor access, or restricted outdoor access, were at an increased risk of obesity (Rowe and others 2015). This has also been found in other studies, as referenced in the 2015 study. Increased signs of lower urinary tract disease have also been associated with exclusively indoor cats (Willeberg 1984). The mention of these issues was intended to suggest that an owner's decision about how to keep their cat should not be based on a single variable alone, such as risk of an RTA, rather than to suggest that outdoor access was preferable. We do appreciate and understand that cultural norms differ between the UK and the US, where predators pose a greater risk to cats than in the UK.
+_As mentioned in the paper, cats without outdoor access have been reported to have increased behavioural issues in a study carried out at the Animal Behaviour Clinic at the Barcelona School of Veterinary Medicine (Amat and others 2009). A previous study using data from the same 'Bristol Cats study' cohort found that cats with no outdoor access, or restricted outdoor access, were at an increased risk of obesity (Rowe and others 2015). This has also been found in other studies, as referenced in the 2015 study. Increased signs of lower urinary tract disease have also been associated with exclusively indoor cats (Willeberg 1984). The mention of these issues was intended to suggest that an owner's decision about how to keep their cat should not be based on a single variable alone, such as risk of an RTA, rather than to suggest that outdoor access was preferable. We do appreciate and understand that cultural norms differ between the UK and the US, where predators pose a greater risk to cats than in the UK._
 
-Your distinction of various categories regarding cats' outdoor access (i.e. those that have never been allowed outdoors compared to those that have previously been allowed outdoors, and also those that are allowed into an enclosed area or on a lead) is a very good one. The Bristol Cats study has collected data relating to the extent of outdoor access, and also on the indoor/outdoor status of cats at various time-points, and we do intend to investigate the influence of this on health and behaviour within our cohort.
+_Your distinction of various categories regarding cats' outdoor access (i.e. those that have never been allowed outdoors compared to those that have previously been allowed outdoors, and also those that are allowed into an enclosed area or on a lead) is a very good one. The Bristol Cats study has collected data relating to the extent of outdoor access, and also on the indoor/outdoor status of cats at various time-points, and we do intend to investigate the influence of this on health and behaviour within our cohort._
 
-We are not aware of any prohibitive initiatives being considered in the UK at this time.
+_We are not aware of any prohibitive initiatives being considered in the UK at this time._
 
-Kind regards,
+_Kind regards,_
 
-Jess
+_Jess_
+
+_<hr><br>_
 
 OUR IMMEDIATE RESPONSE :
 
-Dear Jess, In response to your citations supporting the health benefits of cats getting outdoors, I would argue that the big scotoma/lacuna of the veterinary profession is in companion animal nutrition, feline in particular, many actually selling biologically inappropriate diets to their clients. The essentially convenience-junk dry kibble cat foods widely advertised and purchased by uniformed and trusting cat owners have a high cereal and non-animal protein content, are obesogenic and many cats with cystitis and urinary calculi improve when transitioned on to a biologically appropriate diet. In other words they do not need to go outdoors to enjoy better health, they need to be properly nourished physically as well as psychologically/behaviourally indoors.
+_Dear Jess, In response to your citations supporting the health benefits of cats getting outdoors, I would argue that the big scotoma/lacuna of the veterinary profession is in companion animal nutrition, feline in particular, many actually selling biologically inappropriate diets to their clients. The essentially convenience-junk dry kibble cat foods widely advertised and purchased by uniformed and trusting cat owners have a high cereal and non-animal protein content, are obesogenic and many cats with cystitis and urinary calculi improve when transitioned on to a biologically appropriate diet. In other words they do not need to go outdoors to enjoy better health, they need to be properly nourished physically as well as psychologically/behaviourally indoors._
 
-Best regards, Michael W. Fox & Deanna L.Krantz.
+_Best regards, Michael W. Fox & Deanna L.Krantz._
+
+<hr><br>
 
 _\* Diseases transmissible from cats to humans include: Capnocytophaga, Chlamydiosis, Leptospirosis, MRSA resistant Staphylococcus aureus, Tuberculosis, Pasteurellosis, Plague, Salmonellosis, Yersiniosis, Tularemia, Cat flea typhus, Sporotrichosis, Cat scratch fever, Ringworm ( Dermatophytosis), Malassezia dermatitis, Chaga’s disease (American trypanosomiasis),Giardiosis,  Dipylidiasis, Echinococcosis, Larva migrans, visceral, Larva migrans cutaneous, Strongyloides, Acariasis (mange), Rabies.( Ref: The Merck Veterinary Manual, 2010)_
 
