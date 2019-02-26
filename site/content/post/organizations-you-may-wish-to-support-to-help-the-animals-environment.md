@@ -1,5 +1,5 @@
 ---
-title: ORGANIZATIONS YOU MAY WISH TO SUPPORT TO HELP THE ANIMALS & ENVIRONMENT
+title: Organizations you may wish to support to help the animals & environment
 date: 2019-02-26T16:17:12.095Z
 description: >-
   First, support your local animal and environmental protection organizations:
