@@ -4,8 +4,8 @@ date: 2019-02-26T16:12:49.017Z
 description: >-
   This richly illustrated book details the trials and tribulations of setting up
   an animal shelter and free veterinary services in the heart of a unique
-  wildlife region in S. India, the UNESCO designated Nilgiris Biosphere
-  Reserve.
+  wildlife region in S. India, the UNESCO designated Nilgiris Biosphere Reserve.
+image: /img/flute_dogs_ipan.jpg
 ---
 Deanna Krantz founded and directed India Project for Animals & Nature (IPAN) to indirectly help the indigenous village and tribal peoples by improving the health and well-being of their farmed animals and of the dogs and cats in these communities.  Against local and national opposition, disinformation and death-threats, the long-distance “death march” of cattle to slaughter, wildlife poaching, land encroachment and the tragic plight of elephants wild and captive were investigated and documented.
 
