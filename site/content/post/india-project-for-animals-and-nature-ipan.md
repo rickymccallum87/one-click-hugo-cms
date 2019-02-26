@@ -3,7 +3,7 @@ title: India Project For Animals and Nature (IPAN)
 date: 2019-02-26T16:28:42.875Z
 description: ' '
 ---
-## India's animals: helping the sacred & the suffering 
+## India's animals: helping the sacred & the suffering
 
 _By Deanna L. Krantz & Dr. Michael W. Fox. One Health Vision Press.2016. 8.5" x 11" 144 pages, Full Color. Order from CreateSpace books/Amazon.com. List Price: $27.99 available on Kindle for $3 (or $0.99 if you bought the print version.)_
 
