@@ -25,7 +25,7 @@ IPAN staff could be found at any time of day or night in the jungle or in some v
 
 Follow IPAN's jeep on a routine animal treatment call, or post-treatment check-up, and you would see adults and children lining up with other animals -- emaciated calves, sick puppies, sheep and goats with maggot-infested bite wounds -- all needing treatment. Every treatment in the public eye was a lesson in humane education, promoting respect and concern for animals and giving hope to their owners and relief to the creatures themselves. Many animals that IPAN had successfully treated greeted staff in the villages while adults and children stood and watched in quiet amazement and evident gratitude.
 
-![](/img/deanna_krantz_at_ipan.jpg "Deana Krantz")
+![](/img/deanna_krantz_at_ipan.jpg)
 
 ![](/img/ipan-overview_04.jpg)
 
