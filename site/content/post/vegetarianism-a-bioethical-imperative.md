@@ -1,9 +1,7 @@
 ---
 title: 'Vegetarianism: A Bioethical Imperative'
 date: 2019-02-26T15:53:22.015Z
-description: >-
-  The singularly most damaging environmental footprint upon this planet is
-  caused by our collectively costly and damaging appetite for meat.
+description: ' '
 ---
 The singularly most damaging environmental footprint upon this planet is caused by our collectively costly and damaging appetite for meat. Some 3.2 billion cattle, sheep and goats are now being raised for human consumption, along with billions more pigs and poultry. These extensively and intensively farmed animals produce less food for us than they consume, and compete with us for water. Their numbers and appetites result in an increasing loss wildlife and habitat, and of good farmlands and grazing lands. Linked with deforestation, loss of wetlands, over-fishing and ocean pollution, our appetite for meat is the number one cause of global warming/climate change.
 
