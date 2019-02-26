@@ -40,7 +40,7 @@ This non-recognition reminded us of Twain hissing at one of us a few weeks prior
 
 Seen in another place/situation, context changes identity/recognition.  Social recognition for cats may also involve multiple sensory inputs, auditory and olfactory as well as visual, a ‘gestalt’ perception. Any alteration in these input modalities, as caused by a barrier, (window or sliding door), change in familiar scent/body odor or in familiar range of vocalizations and movements/body posture ( as from relaxed to tense and fearful) could affect social recognition, making the familiar unfamiliar.
 
-!\[](/img/behavior-5.jpg)
+![](/img/behavior-5.jpg)
 
 _Pinto threatens a free-roaming cat through window screen._
 
@@ -50,23 +50,23 @@ Twain’s physical condition was one of evident near-starvation, but once inside
 
 Twain’s appetite returned and he would stare at Pinto and on occasion block his path. Pinto would then hiss and slink away in fear, even after making brief nose-to-nose contact.  I interpret Pinto’s behavior as evidence of post- traumatic stress disorder.
 
-!\[](/img/behavior-6.jpg)
+![](/img/behavior-6.jpg)
 
 _The two cats began sleeping together again._
 
 On the seventh day of being reunited they were more amicably eating and sleeping together, but Pinto was still avoiding Twain’s attempts to solicit reciprocal grooming and play. Pinto’s slow recovery, which we sought to facilitate with food treats for both cats, brushing them in turn and engaging in interactive games, was eventually accomplished. This took ten days after the cats were reunited, marked by two brief episodes of reciprocal grooming followed by play-fighting. On the thirteenth night of their reunion, after a long bout of reciprocal grooming and play-fighting, Twain relaxed and allowed Pinto to half-mount his back and engage in nursing/suckling behavior. 
 
-!\[](/img/behavior-7.gif)
+![](/img/behavior-7.gif)
 
 _Twain seizes Pinto for a thorough grooming._
 
-!\[](/img/behavior-8.gif)
+![](/img/behavior-8.gif)
 
 _Pinto reciprocates social grooming and then nurses on Twain's back._
 
-!\[](/img/behavior-9.gif)
+![](/img/behavior-9.gif)
 
-!\[](/img/behavior-10.gif)
+![](/img/behavior-10.gif)
 
 _Confirming re-establishment of their bond, Twain rolls in a defensive posture soliciting play-fighting._
 
@@ -84,8 +84,8 @@ Many people don't know how to properly and safely restrain terrified cats, which
 
 I applaud the initiative being taken by the American Association of Feline Practitioners (AAFP) correct this serious issue and to facilitate more cats having regular wellness examinations, because far too many cats never see a veterinarian until they are seriously, often terminally ill. To learn more, cat handlers, owners and veterinarians alike should visit [AAFP's Feline Friendly Handling Guidelines](www.catvets.com/guidelines/practice-guidelines/handling-guidelines) and [Cat Friendly Practice Program](<www.catvets.com/cfp >).
 
-!\[](/img/behavior-11.jpg)
+![](/img/behavior-11.jpg)
 
 _Pinto & Twain: Best of friends again._
 
-!\[](/img/behavior-12.jpg)
+![](/img/behavior-12.jpg)
