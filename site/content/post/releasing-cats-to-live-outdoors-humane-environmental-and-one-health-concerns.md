@@ -195,7 +195,7 @@ _Best regards, Michael W. Fox & Deanna L.Krantz._
 
 _\* Diseases transmissible from cats to humans include: Capnocytophaga, Chlamydiosis, Leptospirosis, MRSA resistant Staphylococcus aureus, Tuberculosis, Pasteurellosis, Plague, Salmonellosis, Yersiniosis, Tularemia, Cat flea typhus, Sporotrichosis, Cat scratch fever, Ringworm ( Dermatophytosis), Malassezia dermatitis, Chaga’s disease (American trypanosomiasis),Giardiosis,  Dipylidiasis, Echinococcosis, Larva migrans, visceral, Larva migrans cutaneous, Strongyloides, Acariasis (mange), Rabies.( Ref: The Merck Veterinary Manual, 2010)_
 
-The authors can be reached at [animaldocfox@gmail.com](animaldocfox@gmail.com)
+<br>
 
 ## REFERENCES
 
