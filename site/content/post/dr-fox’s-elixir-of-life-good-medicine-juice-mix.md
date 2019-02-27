@@ -1,5 +1,5 @@
 ---
-title: Dr.fox’s Elixir Of Life (Good Medicine  Juice  Mix)
+title: Dr. Fox’s Elixir Of Life (Good Medicine Juice Mix)
 date: 2019-02-27T15:52:57.545Z
 description: ' '
 ---
